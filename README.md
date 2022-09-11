@@ -25,6 +25,6 @@ THEN I find a concise, descriptive title
 ## screenshot
 
 The following image shows the web application's appearance and functionality:
-![images](https://github.com/muchirbickel/code-refactor/blob/main/Assets/images/01-html-css-git-homework-demo.png)
+![images](https://github.com/muchirbickel/code-refactor/blob/main/Assets/images/01-html-css-git-homework-demo.png 400px)
 
 > **Note**: Thisweb application is optimized for any screen size.
