@@ -4,8 +4,8 @@
 ## Description
 
 AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+this website have a codebase that follows accessibility standards
+so that our own site is optimized for search engines
 
 
 ## Acceptance Criteria
@@ -25,6 +25,6 @@ THEN I find a concise, descriptive title
 ## screenshot
 
 The following image shows the web application's appearance and functionality:
-<image src=01-html-css-git-homework-demo.png>
+![images](https://github.com/muchirbickel/code-refactor/blob/main/Assets/images/01-html-css-git-homework-demo.png)
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+> **Note**: Thisweb application is optimized for any screen size.
