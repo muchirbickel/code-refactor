@@ -3,7 +3,7 @@
 
 ## Description
 
-AS A marketing agency
+As a marketing agency
 this website have a codebase that follows accessibility standards
 so that our own site is optimized for search engines
 
